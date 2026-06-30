@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Manual PNM2</title>
+</head>
+<body style="font-family: Arial; text-align: center; padding: 40px;">
+
+  <h1>Manual PNM2</h1>
+  <p>Baixe o manual atualizado do produto abaixo:</p>
+
+  <a href="pdf/DB100.pdf" target="_blank"
+     style="padding: 15px 25px; background: #007bff; color: white; text-decoration: none; border-radius: 8px;">
+     📄 Baixar Manual PDF
+  </a>
+
+</body>
+</html>
